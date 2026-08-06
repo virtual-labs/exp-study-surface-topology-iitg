@@ -1,1 +1,3 @@
-### Aim of the experiment
+### Aim
+
+- Study the surface topology of the nanoparticle.

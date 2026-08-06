@@ -2,37 +2,173 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The most crucial parameter that directly limits theoretical resolution in electron microscopy is",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Numerical aperture of objective lens",
+        "b": "Wavelength of electrons",
+        "c": "Specimen thickness",
+        "d": "Detector pixel size"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The electron source which provides the highest brightness and best spatial resolution in modern electron microscopes is",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Tungsten filament",
+        "b": "LaB6 filament",
+        "c": "Cold field emission gun",
+        "d": "Thermionic cathode"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Two identical glass (mu-g = 3/2) equi-convex lenses of focal length f each are kept in contact. The space between the two lenses is filled with water (mu-w = 4/3). The focal length of the combination is",
+      "answers": {
+        "a": "f/3",
+        "b": "f",
+        "c": "4f/3",
+        "d": "3f/4"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The objective and the eye-piece of a compound microscope having focal lengths of 0.95 cm and 5 cm respectively are kept at a distance of 20 cm. At a distance of 25 cm the large image is formed. Calculate the total magnification.",
+      "answers": {
+        "a": "84",
+        "b": "80",
+        "c": "94",
+        "d": "75"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A vertical microscope is focused on a point at the bottom of an empty tank. Then water (mu = 4/3) is poured into the tank up to a height of 4 cm, after which a liquid that does not mix with water is poured over it up to a height of 2 cm above the water. The refractive index of the liquid is 3/2. What should be the vertical distance through which the microscope must be moved to bring the object in focus again?",
+      "answers": {
+        "a": "2.61 cm",
+        "b": "1.67 cm",
+        "c": "5 cm",
+        "d": "4.1 cm"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A microscope is used to focus on an object at the bottom of a beaker. The microscope is raised by 1 cm. To what height should the water be poured to bring the object in focus again? Refractive index of water is 4/3.",
+      "answers": {
+        "a": "1 cm",
+        "b": "4/3 cm",
+        "c": "4 cm",
+        "d": "3 cm"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Resolving power of a microscope depends upon the",
+      "answers": {
+        "a": "Focal length and aperture of the eye lens",
+        "b": "Focal length and objective of the eye lens",
+        "c": "Apertures of the objective and the eye lens",
+        "d": "Wavelength of light illuminating the object"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The component of the compound microscope responsible for collecting and focussing of light rays on the material is",
+      "answers": {
+        "a": "Lens for the eyepiece",
+        "b": "A lens that is objective",
+        "c": "A lens with a condenser",
+        "d": "The use of a magnifying lens"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In light microscopy, the highest resolution is attained with",
+      "answers": {
+        "a": "The visible light with the longest wavelength was selected",
+        "b": "A lens with a small numerical aperture",
+        "c": "Visible light with the shortest wavelength",
+        "d": "The shortest visible light wavelength was chosen, as well as an objective with the highest numerical aperture"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In fluorescence microscopy, the removal of all light except blue light is done by",
+      "answers": {
+        "a": "Filter for exciters",
+        "b": "Filtering barrier",
+        "c": "Mirror made of dichroic glass",
+        "d": "Arc light made of mercury"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
