@@ -1,5 +1,3 @@
-### Procedure
-
 ### Sample requirements for FESEM
 
 - Sample should be dry and non-magnetic.
