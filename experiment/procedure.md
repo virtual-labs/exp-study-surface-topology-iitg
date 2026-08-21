@@ -54,3 +54,9 @@
 <p align="center" >
 <b>Figure 3: SEM images of biological and non-biological samples. (A) Human RBCs (B) Nanoparticles.</b>
 </p>
+
+---
+
+## Video Demonstration
+
+[![Watch the video](https://img.youtube.com/vi/PJLyv5gnc1A/maxresdefault.jpg)](https://www.youtube.com/watch?v=PJLyv5gnc1A)
