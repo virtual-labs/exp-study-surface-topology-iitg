@@ -1,0 +1,175 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Which signal primarily provides high surface topography contrast in SEM imaging?",
+      "answers": {
+        "a": "Backscattered electrons",
+        "b": "Secondary electrons",
+        "c": "Characteristic X-rays",
+        "d": "Transmitted electrons"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the primary purpose of sputter coating non-conductive samples before SEM?",
+      "answers": {
+        "a": "To reduce vacuum pressure",
+        "b": "To increase electrical conductivity and reduce charging",
+        "c": "To fix biological structures chemically",
+        "d": "To improve chemical composition analysis by EDS"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In SEM, an increase in accelerating voltage typically results in:",
+      "answers": {
+        "a": "Reduced penetration depth and shallower interaction volume",
+        "b": "Larger interaction volume and deeper specimen penetration",
+        "c": "No change in interaction volume",
+        "d": "Immediate sample vitrification"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which factor improves depth of field in SEM images?",
+      "answers": {
+        "a": "Low working distance and high accelerating voltage",
+        "b": "High condenser aperture and low magnification",
+        "c": "Large depth of field is intrinsic and cannot be changed",
+        "d": "Long working distance and small aperture (low probe size)"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is \"charging\" in SEM and how is it minimized?",
+      "answers": {
+        "a": "Charging is detector overload and is minimized by turning off detectors",
+        "b": "Charging is electron accumulation on insulating samples, minimized by conductive coating or low vacuum",
+        "c": "Charging is caused by too much staining and fixed by washing",
+        "d": "Charging is sample electrification due to ions and is minimized by helium gas"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which EM technique allows 3D reconstruction of cellular volumes via serial sectioning or tomography?",
+      "answers": {
+        "a": "Selected area electron diffraction",
+        "b": "Electron tomography or serial block-face SEM",
+        "c": "EDS mapping",
+        "d": "Secondary ion mass spectrometry"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which gas is often used in variable-pressure SEM modes to reduce charging on non-conductive samples?",
+      "answers": {
+        "a": "Argon",
+        "b": "Nitrogen",
+        "c": "Water vapor or nitrogen/air mixture",
+        "d": "Helium"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which coating material is commonly used to improve conductivity for SEM imaging of biological samples?",
+      "answers": {
+        "a": "Gold or gold-palladium alloy",
+        "b": "Silver nitrate solution",
+        "c": "Lead acetate",
+        "d": "Graphite powder only"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which approach helps reduce charging and beam damage when imaging polymers or biological specimens in SEM?",
+      "answers": {
+        "a": "Use of highest possible accelerating voltage",
+        "b": "Coating with conductive film and using low accelerating voltage or low vacuum",
+        "c": "Immersing the sample in water during imaging",
+        "d": "Using visible light to pre-irradiate the sample"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which microscope mode is best for measuring particle size distributions of pharmaceutical nanoparticles in dry state?",
+      "answers": {
+        "a": "Bright-field optical microscopy",
+        "b": "Transmission electron microscopy",
+        "c": "Scanning electron microscopy",
+        "d": "Light scattering techniques only"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}

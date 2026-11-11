@@ -1,0 +1,175 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The most crucial parameter that directly limits theoretical resolution in electron microscopy is",
+      "answers": {
+        "a": "Numerical aperture of objective lens",
+        "b": "Wavelength of electrons",
+        "c": "Specimen thickness",
+        "d": "Detector pixel size"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The electron source which provides the highest brightness and best spatial resolution in modern electron microscopes is",
+      "answers": {
+        "a": "Tungsten filament",
+        "b": "LaB6 filament",
+        "c": "Cold field emission gun",
+        "d": "Thermionic cathode"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which type of electrons is primarily detected to produce surface images in conventional SEM?",
+      "answers": {
+        "a": "Secondary electrons",
+        "b": "Gamma rays",
+        "c": "Alpha particles",
+        "d": "Protons"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the main principle of SEM?",
+      "answers": {
+        "a": "Use of visible light to observe specimens",
+        "b": "Scanning a specimen surface with a focused electron beam",
+        "c": "Separation of proteins by molecular weight",
+        "d": "Detection of fluorescent signals"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Why are biological samples commonly coated with gold or gold-palladium before SEM analysis?",
+      "answers": {
+        "a": "To increase sample size",
+        "b": "To improve electrical conductivity and reduce charging",
+        "c": "To preserve DNA",
+        "d": "To increase fluorescence"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which component generates the electron beam in an SEM?",
+      "answers": {
+        "a": "Light source",
+        "b": "Electron gun",
+        "c": "Objective lens of a light microscope",
+        "d": "Fluorescent lamp"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Resolving power of a microscope depends upon the",
+      "answers": {
+        "a": "Focal length and aperture of the eye lens",
+        "b": "Focal length and objective of the eye lens",
+        "c": "Apertures of the objective and the eye lens",
+        "d": "Wavelength of light illuminating the object"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which type of information is mainly obtained using SEM?",
+      "answers": {
+        "a": "Surface morphology and topography",
+        "b": "Amino acid sequence",
+        "c": "Gene expression level",
+        "d": "Protein concentration"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which detector is commonly used to collect backscattered electrons in SEM?",
+      "answers": {
+        "a": "Backscattered electron detector",
+        "b": "Fluorescence detector",
+        "c": "UV detector",
+        "d": "Radioactivity detector"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the major difference between SEM and TEM?",
+      "answers": {
+        "a": "SEM studies surface morphology, whereas TEM examines internal ultrastructure",
+        "b": "SEM uses visible light, whereas TEM uses fluorescent light",
+        "c": "SEM detects DNA, whereas TEM detects RNA",
+        "d": "SEM uses sound waves, whereas TEM uses electrons"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
